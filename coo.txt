@@ -1,0 +1,5 @@
+Para simplificar el análisis del lanzamiento de un proyectil, la trayectoria de este se considera bidimensional. Cuando 
+se habla de cuerpos que se mueven en un campo gravitatorio central (como el de la Tierra), el movimiento es elíptico, 
+sin embargo  en la superficie de la Tierra,  este movimiento es tan parecido a una parábola que perfectamente podemos 
+calcular su trayectoria usando la ecuación de posición de la cinematica, que  describe una parábola, donde $\vec{r}$ 
+es el vector posición, $\vec{v_{o}}$ el vector velocidad inicial y $\vec{a}$ el vector aceleracion.
